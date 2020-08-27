@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+}
+.instract{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.form-group{
+  margin: 10px 35%;
+}
+.form-control {
+  border-radius:10px;
+}
+.submit-btn {
+  margin-top: 10px;
+  text-align: center;
+}
+.submit-control {
+  padding: 5px 50px;
+  border-radius:30px;
+}
+.erorr-message {
+  font-size:10px;
+  color:red;
+} 
+h2 {
+  text-align: center;
+}
+img {
+  height:180px;
+  width:320px;
+}
+.imgs {
+  display: flex;
+}
